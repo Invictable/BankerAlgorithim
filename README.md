@@ -24,5 +24,8 @@ Run with ./banker
 # Output Example
 Ran with numbers from assingment document with debug enabled:
 ![image](https://user-images.githubusercontent.com/84880331/202955659-e698c666-936e-46fb-9f70-e0b5260d0ba5.png)
+
 Displays process count, resource count, imported matrices, the safe sequence checker, and finally the result.
-Running with debug off [default] only displays the safe sequence.
+Running with debug off [default] only displays the safe sequence, like this:
+![image](https://user-images.githubusercontent.com/84880331/202959770-83bdd589-6c23-4fa1-abbb-957feb2a0b2a.png)
+
