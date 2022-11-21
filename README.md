@@ -3,10 +3,12 @@ Bankers Algorithim implementation for Operating Systems Assignment, 11/20/2022, 
 
 # Implementation
 A file, data.txt, holds the data to be analyzed in the form:
-Process count, Resource count
+
+- Process count, Resource count
 - required allocation count for each resource of each process
 - max count for each resource of each process.
 - available count for each resource.
+
 These are entered in the form P0(ABC) P1(ABC) etc.
 These are then read into the programs matrices.
 The program then tests every possible combination, terminating its attempt when the required memory would no longer be present. 
